@@ -1,4 +1,4 @@
-name: "Github Release"
+name: "auto-Github-Release"
 author: "Lars Gohr"
 branding:
   icon: "git-branch"
