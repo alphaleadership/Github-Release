@@ -5,7 +5,7 @@
 Creates a plain Github release, without attaching assets or source code.
 
 ## Usage
-
+nextgen
 ```yaml
 name: Publish Release
 on:
